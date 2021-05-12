@@ -9,11 +9,11 @@ require (
 	github.com/facebookgo/startstop v0.0.0-20161013234910-bc158412526d
 	github.com/facebookgo/structtag v0.0.0-20150214074306-217e25fb9691 // indirect
 	github.com/fsnotify/fsnotify v1.4.9
-	github.com/garyburd/redigo v1.6.0
 	github.com/go-playground/universal-translator v0.17.0 // indirect
 	github.com/go-playground/validator v9.31.0+incompatible
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.4.3
+	github.com/gomodule/redigo v1.8.4
 	github.com/gorilla/mux v1.6.3-0.20190108142930-08e7f807d38d
 	github.com/grpc-ecosystem/grpc-gateway v1.12.1
 	github.com/hashicorp/golang-lru v0.5.4
@@ -37,7 +37,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/vmihailenco/msgpack/v4 v4.3.11
 	golang.org/x/text v0.3.3 // indirect
-	google.golang.org/grpc v1.32.0
+	google.golang.org/grpc v1.37.1
 	gopkg.in/alexcesaro/statsd.v2 v2.0.0
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/ini.v1 v1.57.0 // indirect
